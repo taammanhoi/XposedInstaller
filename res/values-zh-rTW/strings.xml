@@ -5,6 +5,7 @@
     <string name="menuSend">傳送</string>
     <string name="menuSaveToSd">傳送到 SD 卡</string>
     <string name="xposed_not_active">最新版本的 Xposed 目前未啟動。您是否已安裝框架並重新啟動？</string>
+    
     <!-- Welcome screen / main sections -->
     <string name="welcome">歡迎使用<b>Xposed安裝程式</b>!\n請選擇您想進行的操作：</string>
     <string name="tabInstall">框架</string>
@@ -23,7 +24,7 @@
     <string name="tabAboutDescription">瞭解Xposed作者，如何取得幫助支援等。</string>
 
     <!-- Installer tab -->
-        <string name="install">安裝/更新</string>
+    <string name="install">安裝/更新</string>
     <string name="uninstall">移除</string>
     <string name="installedVersion">啟動</string>
     <string name="latestVersion">程式內建</string>
